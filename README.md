@@ -6,7 +6,7 @@ This repository tracks my individual learning process in RStudio. The coming two
 
 I have had multiple courses involving data analysis in RStudio before, during my Bachelor’s in International Business Administration at the University of Twente. These courses were challenging, but they sparked a strong interest in data and programming. I spent a lot of time learning outside of class, and ultimately achieved my highest grades in those subjects. That experience made it clear to me that I wanted to pursue data analysis as a part of my future career.
 
-That’s why I’ve returned to RStudio with the goal of (re)building my skills from the ground up — not just to repeat what I’ve learned, but to push my abilities to a higher and more professional level alongside my (pre)master.
+That’s why I’ve returned to RStudio with the goal of (re)building my skills from the ground up — not just to repeat what I’ve learned, but to push my abilities to a higher and more professional level alongside my (pre)master. Furthermore, besides this initiative I will allocate time to further my mathematical skills from what I have been left with from my previous education, to prepare for my following (pre)master I will first master the appropriate mathematcial level needed for this upcoming study, this will take me from the 15th of january until the 1st of september.
 
 
 ## What You'll Find Here
